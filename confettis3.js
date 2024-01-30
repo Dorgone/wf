@@ -13,7 +13,7 @@ var removeConfetti;
     toggleConfetti = toggleConfettiInner;
     removeConfetti = removeConfettiInner;
     // var colors = ["DodgerBlue", "OliveDrab", "Gold", "Pink", "SlateBlue", "LightBlue", "Violet", "PaleGreen", "SteelBlue", "SandyBrown", "Chocolate", "Crimson"]
-    var colors = ["#008f8f", "#ffe700", "#0cac00", "#b20650"] 
+    var colors = ["#008f8f", "#ffe700", "#0cac00", ] 
     var streamingConfetti = false;
     var animationTimer = null;
     var particles = [];
